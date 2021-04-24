@@ -76,6 +76,7 @@ Enjoy!
 | rep | Reputation | A: I've participated in an interview.exe. B: rep++  |
 | mans | Bro | Hey mans.exe |
 | trigger | Getting notified | obs.triggered |
+| opensource | Making public/Telling everyone| What you said was opensourced :P |
 
 ## 4. People
 
