@@ -6,7 +6,7 @@ Founders: [@shalithasuranga](https://github.com/shalithasuranga), [@alphagamer7]
 What you say now.
 ```
 Hi.. 
-I've pushed the code into GitHub. But, I'm not sure whether it contains bugs.
+I've pushed the code into GitHub. But I'm not sure whether it contains bugs.
 ```
 
 What you'll say after practicing Codeglish.
