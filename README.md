@@ -36,6 +36,7 @@ Enjoy!
 | noice | Nice | A: I pushed my code. B: noice |
 | moice | Very nice | A: Let's deploy B: moice |
 | undefined | I don't know/have | A: Mans, you have a server? B: undefined |
+| #respect | Good work | A: I fixed the bug AB-12 B: #respect |
 
 ## 2. Workplace
 
