@@ -1,7 +1,7 @@
 # codeglish
 A communication language only for die-hard programmers.
 
-Founders: @shalithasuranga, @alphagamer7
+Founders: [@shalithasuranga](https://github.com/shalithasuranga), [@alphagamer7](https://github.com/alphagamer7)
 
 ## 0. Basics
 
