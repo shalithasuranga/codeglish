@@ -77,7 +77,7 @@ Founders: [@shalithasuranga](https://github.com/shalithasuranga), [@alphagamer7]
 | `<noun>++`     | Increment      |  $$++ |
 | `<noun>`   | Decrement      | profit-- |
 | `<noun> < <noun>` | Better than | ES5 < E6 |
-| `<noun> > <noun>` | Lesser than | passive $$ <>active $$  |
+| `<noun> > <noun>` | Lesser than | passive $$ > active $$  |
 | `<noun> << <noun>` | Better than (Highlighted) | ES5 << E6 |
 | `<noun> >> <noun>` | Lesser than (Highlighted) | passive $$ >> active $$  |
 | `<noun> == <noun>` | Equal | scrum time == now()? |
