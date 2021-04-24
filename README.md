@@ -87,7 +87,7 @@ Founders: [@shalithasuranga](https://github.com/shalithasuranga), [@alphagamer7]
 
 ## 5. Advanced concepts
 
-- Actions and tasks can be represented as methods (In your favorite programming language).
+- Actions and tasks can be represented as code snippets (In your favorite programming language).
   Eg: If you need to say that you found a nice movie, you can use `noiceMovies.push('<movie name>')`
 
 
