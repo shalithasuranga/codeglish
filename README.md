@@ -52,7 +52,7 @@ Founders: [@shalithasuranga](https://github.com/shalithasuranga), [@alphagamer7]
 | Word/Phrase      | Meaning     | Example |
 | :----------- | :----------- | :----------
 | $$     | Money      |  Making websites == $$ |
-| stonks   | Something growing rapidly      | Bitcoin: stonks |
+| stonks   | Something is growing rapidly      | Bitcoin: stonks |
 | thamks | Thanks | A: I merged the code into the main branch B: Thamks.exe |
 | helmp | Help me | A: Helmp B: nani |
 | nani | What? (When you don't understand something) | A: noice method findIndex B: nani |
