@@ -107,5 +107,7 @@ Enjoy!
 
 - Actions and tasks can be represented as code snippets (In your favorite programming language).
   Eg: If you need to say that you found a nice movie, you can use `noiceMovies.push('<movie name>')`
+- Problems and rejections can be represented as Exceptions.
+  Eg: A: Let's go for a tea. B: `throw new IHaveToFindABugException()`
 
 
