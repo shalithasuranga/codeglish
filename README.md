@@ -19,6 +19,7 @@ Founders: [@shalithasuranga](https://github.com/shalithasuranga), [@alphagamer7]
 | :----------- | :----------- | :----------
 | 200 ok      | Everything is working fine       |  A: Test message, B: 200 ok |
 | 403   | Someone said no for something        | A: She said okay? B: 403 :/ |
+| 500   | Someone said yes/no both (a complicated answer)        | A: She said okay? B: 500 :P |
 | noice | Nice | A: I pushed my code. B: noice |
 | moice | Very nice | A: Let's deploy B: moice |
 | undefined | I don't know/have | A: Mans, you have a server? B: undefined |
