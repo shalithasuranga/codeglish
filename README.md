@@ -35,7 +35,7 @@ Founders: [@shalithasuranga](https://github.com/shalithasuranga), [@alphagamer7]
 | remote | Inside the client's company | remote server |
 | global | Inside the company | global obs |
 | super root | CEO | super root: Let's celebrate |
-| pr | proofreading | A: Hemlp pr.exe B: noice |
+| pr | proofreading | A: Helmp pr.exe B: noice |
 
 
 ## 3. Relationships
