@@ -26,7 +26,7 @@ A communication language only for die-hard programmers.
 | root     | Team lead     |  root: There is a bug.exe |
 | obs (aka Observable)   | A person who usually judgets your behaviours      | There are obs |
 | observe | Judging someone's behaviour | A: I pushed to master by mistake B: Observed |
-| sudo | Doing somthing with their power | root: sudo submit today  |
+| sudo | Doing something with their power | root: sudo submit today  |
 | local | Inside the team | local obs |
 | remote | Inside the client's company | remote server |
 | global | Inside the company | global obs |
