@@ -60,5 +60,5 @@ A communication language only for die-hard programmers.
 - Every person is identified with their first name's first letter. Eg: `s` (Shalitha)
 - If there are two or more persons with the same identifier, you can use a second letter as well. Eg: `sh` (Shalitha Suranga)
 - If there is a girl/woman, you should use `s` at the end of their identifier. Eg: `es` (Emma Watson)
-- If a person's name is beutiful and matching with his/her appearance, you can use the first name but with `.exe`. Eg: `scarlett.exe`
+- If the person's name is beutiful and matching with his/her appearance, you can use the first name but with `.exe`. Eg: `scarlett.exe`
 
