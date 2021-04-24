@@ -58,6 +58,7 @@ Founders: [@shalithasuranga](https://github.com/shalithasuranga), [@alphagamer7]
 | download | *You know it* | I need to download |
 | error | Problem | download error |
 | rep | Reputation | A: I've participated in an interview.exe. B: rep++  |
+| mans | Bro | Hey mans.exe |
 
 ## 4. People
 
