@@ -13,7 +13,7 @@ What you'll say after practicing Codeglish.
 
 ```
 mans
-I've pushed the code into github.exe. !sure bugs.exists
+I've pushed the code into github.exe. !sure bugs.exist
 ```
 
 Enjoy!
