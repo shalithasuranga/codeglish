@@ -27,6 +27,10 @@ A communication language only for die-hard programmers.
 | obs (aka Observable)   | A person who usually judgets your behaviours      | There are obs |
 | observe | Judging someone's behaviour | A: I pushed to master by mistake B: Observed |
 | sudo | Doing somthing with their power | root: sudo submit today  |
+| local | Inside the team | local obs |
+| remote | Inside the client's company | remote server |
+| global | Inside the company | global obs |
+| super root | CEO | super root: Let's celebrate |
 
 
 ## 3. Relationships
@@ -50,4 +54,11 @@ A communication language only for die-hard programmers.
 | upload | Eat | He is uploading |
 | download | *You know it* | I need to download |
 | error | Problem | download error |
+
+## 4. People
+
+- Every person is identified with their first name's first letter. Eg: `s` (Shalitha)
+- If there are two or more persons with the same identifier, you can use a second letter as well. Eg: `sh` (Shalitha Suranga)
+- If there is a girl/woman, you should use `s` at the end of their identifier. Eg: `es` (Emma Watson)
+- If a person's name is beutiful and matching with his/her appearance, you can use the first name but with `.exe`. Eg: `scarlett.exe`
 
