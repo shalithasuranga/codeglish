@@ -1,4 +1,4 @@
-# codeglish
+# Codeglish 🐒
 A communication language only for die-hard programmers. Try Codeglish on internet chat platforms for fun. But, please don't use Codeglish in task management platforms where you need to have a professional profile.
 
 Enjoy!
