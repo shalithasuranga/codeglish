@@ -61,7 +61,7 @@ Enjoy!
 | ping | Try messaging/chatting | Did you ping? |
 
 
-## 3. General
+## 4. General
 
 | Word/Phrase      | Meaning     | Example |
 | :----------- | :----------- | :----------
@@ -78,7 +78,7 @@ Enjoy!
 | trigger | Getting notified | obs.triggered |
 | opensource | Making public/Telling everyone| What you said was opensourced :P |
 
-## 4. People
+## 5. People
 
 - Every person is identified with their first name's first letter. Eg: `s` (Shalitha)
 - If there are two or more persons with the same identifier, you can use a second letter as well. Eg: `sh` (Shalitha Suranga)
@@ -86,7 +86,7 @@ Enjoy!
 - If the person's name is beautiful and matching with his/her appearance, you can use the first name but with `.exe`. Eg: `scarlett.exe`
 
 
-## 5. Comparisons and Operations 
+## 6. Comparisons and Operations 
 
 | Syntax     | Meaning     | Example |
 | :----------- | :----------- | :----------
@@ -101,7 +101,7 @@ Enjoy!
 | `<noun> != <noun>` | Not equal | passive $$ != active $$ |
 
 
-## 5. Advanced concepts
+## 7. Advanced concepts
 
 - Actions and tasks can be represented as code snippets (In your favorite programming language).
   Eg: If you need to say that you found a nice movie, you can use `noiceMovies.push('<movie name>')`
