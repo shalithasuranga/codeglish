@@ -1,10 +1,12 @@
 # codeglish
 A communication language only for die-hard programmers.
 
+Founders: @shalithasuranga, @alphagamer7
+
 ## 0. Basics
 
 - If there is a noun/verb that needs to be highlighted, ending can be `.exe` (or your favorite file extension). Eg: I've pushed the changes to github.exe
-- Every chat initiates with `thug` or `mans`.
+- Every chat initiates with `thug`, `mans` or `hey`.
 - Don't use thumbs up emoji/reaction. Instead use 🐒 (Dancing monkey)
 - Don't use `not` word. Instead use `!` right before the next word. Eg: !sure
 
@@ -31,6 +33,7 @@ A communication language only for die-hard programmers.
 | remote | Inside the client's company | remote server |
 | global | Inside the company | global obs |
 | super root | CEO | super root: Let's celebrate |
+| pr | proof reading | A: Hemlp pr.exe B: noice |
 
 
 ## 3. Relationships
@@ -54,6 +57,7 @@ A communication language only for die-hard programmers.
 | upload | Eat | He is uploading |
 | download | *You know it* | I need to download |
 | error | Problem | download error |
+| rep | Reputation | A: I've participated an interview.exe. B: rep++  |
 
 ## 4. People
 
@@ -61,4 +65,26 @@ A communication language only for die-hard programmers.
 - If there are two or more persons with the same identifier, you can use a second letter as well. Eg: `sh` (Shalitha Suranga)
 - If there is a girl/woman, you should use `s` at the end of their identifier. Eg: `es` (Emma Watson)
 - If the person's name is beutiful and matching with his/her appearance, you can use the first name but with `.exe`. Eg: `scarlett.exe`
+
+
+## 5. Comparisons and Operations 
+
+| Syntax     | Meaning     | Example |
+| :----------- | :----------- | :----------
+| `<noun>++`     | Increment      |  $$++ |
+| `<noun>`   | Decrement      | profit-- |
+| `<noun> < <noun>` | Better than | ES5 < E6 |
+| `<noun> > <noun>` | Lesser than | passive $$ <>active $$  |
+| `<noun> << <noun>` | Better than (Highlighted) | ES5 << E6 |
+| `<noun> >> <noun>` | Lesser than (Highlighted) | passive $$ >> active $$  |
+| `<noun> == <noun>` | Equal | scrum time == now()? |
+| `<noun> === <noun>` | Identical | scrum time === now()? |
+| `<noun> != <noun>` | Not equal | passive $$ != active $$ |
+
+
+## 5. Advanced concepts
+
+- Actions and tasks can be represented as methods (In your favorite programming language).
+  Eg: If you need to say that you found a nice movie, you can use `noiceMovies.push('<movie name>')`
+
 
