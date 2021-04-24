@@ -58,7 +58,7 @@ Enjoy!
 | :----------- | :----------- | :----------
 | server     | A girl/woman      |  noice server |
 | client   | A boy/man       | That server has a client |
-| ping | Try flirting | Did you ping that server? |
+| ping | Try messaging/chatting | Did you ping? |
 
 
 ## 3. General
