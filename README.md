@@ -1,9 +1,22 @@
 # Codeglish 🐒
 A communication language only for die-hard programmers. Try Codeglish on internet chat platforms for fun. But, please don't use Codeglish in task management platforms where you need to have a professional profile.
 
-Enjoy!
-
 Founders: [@shalithasuranga](https://github.com/shalithasuranga), [@alphagamer7](https://github.com/alphagamer7)
+
+What you say now.
+```
+Hi.. 
+I've pushed the code into the GitHub. But, I'm not sure whether it contains bugs.
+```
+
+What you'll say after practicing Codeglish.
+
+```
+mans
+I've pushed the code into github.exe. !sure bugs.exists
+```
+
+Enjoy!
 
 ## 0. Basics
 
