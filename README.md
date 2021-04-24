@@ -1,5 +1,7 @@
 # codeglish
-A communication language only for die-hard programmers.
+A communication language only for die-hard programmers. Try A on internet chat platforms for fun. But, please don't use A in task management platforms where you need to have a professional profile.
+
+Enjoy!
 
 Founders: [@shalithasuranga](https://github.com/shalithasuranga), [@alphagamer7](https://github.com/alphagamer7)
 
