@@ -61,6 +61,7 @@ Founders: [@shalithasuranga](https://github.com/shalithasuranga), [@alphagamer7]
 | error | Problem | download error |
 | rep | Reputation | A: I've participated in an interview.exe. B: rep++  |
 | mans | Bro | Hey mans.exe |
+| trigger | Getting notified | obs.triggered |
 
 ## 4. People
 
