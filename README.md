@@ -47,7 +47,7 @@ Enjoy!
 | observe | Judging someone's behavior | A: I pushed to master by mistake B: Observed |
 | sudo | Doing something with their power | root: sudo submit today  |
 | local | Inside the team | local obs |
-| remote | Inside the client's company | remote server |
+| remote | Inside the client's company | remote meeting |
 | global | Inside the company | global obs |
 | super root | CEO | super root: Let's celebrate |
 | pr | proofreading | A: Helmp pr.exe B: noice |
