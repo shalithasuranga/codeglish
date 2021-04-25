@@ -84,6 +84,7 @@ Enjoy!
 | trigger | Getting notified | obs.triggered |
 | opensource | Making public/Telling everyone| What you said was opensourced :P |
 | inverse | Mirrored result | inverse stonks |
+| legacy | Old | legacy car |
 
 ## 5. People
 
