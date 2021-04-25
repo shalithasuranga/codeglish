@@ -52,7 +52,9 @@ Enjoy!
 | remote | Inside the client's company | remote meeting |
 | global | Inside the company | global obs |
 | super root | CEO | super root: Let's celebrate |
-| pr | proofreading | A: Helmp pr.exe B: noice |
+| pr | proofreading/pull request (Based on context) | A: Helmp pr.exe B: noice |
+| context | Current situation | context == code review ?? |
+
 
 
 ## 3. Relationships
