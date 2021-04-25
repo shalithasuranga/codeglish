@@ -113,5 +113,8 @@ Enjoy!
   Eg: If you need to say that you found a nice movie, you can use `noiceMovies.push('<movie name>')`
 - Problems and rejections can be represented as Exceptions.
   Eg: A: Let's go for a tea. B: `throw new IHaveToFindABugException()`
+- You can use Linux commands-like things as well. 
+  Eg: If you need to say "Forget this problem", you can say `this pipe /dev/null`
+
 
 
