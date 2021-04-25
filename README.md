@@ -39,6 +39,7 @@ Enjoy!
 | null | I had but I don't have right now | A: hey, you have a usb cable.exe? B: null |
 | #respect | Good work | A: I fixed the bug AB-12 B: #respect |
 | ack | Acknowledge receipt of message | A: I am going to chop down these trees B: ack |
+| ie | Very outdated answer | A: mans. flutter.exe v2 is released!  B: ie |
 
 ## 2. Workplace
 
